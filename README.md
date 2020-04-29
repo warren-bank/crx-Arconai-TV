@@ -1,6 +1,8 @@
 ### [Arconai TV](https://github.com/warren-bank/crx-Arconai-TV)
 
-Route video stream through [HLS-Proxy](https://github.com/warren-bank/HLS-Proxy) and transfer to player on [WebCast-Reloaded](https://github.com/warren-bank/crx-webcast-reloaded) [external website](https://warren-bank.github.io/crx-webcast-reloaded/external_website/index.html).
+Transfer video stream from website to an alterate video player:
+* [ExoAirPlayer](https://github.com/warren-bank/Android-ExoPlayer-AirPlay-Receiver/releases)
+* [WebCast-Reloaded](https://github.com/warren-bank/crx-webcast-reloaded) [external website](https://warren-bank.github.io/crx-webcast-reloaded/external_website/index.html) for stream to be routed through [HLS-Proxy](https://github.com/warren-bank/HLS-Proxy)
 
 #### Summary:
 
